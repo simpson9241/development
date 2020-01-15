@@ -61,7 +61,30 @@
   height: 600px;
   width: 30%;
 }
-
+/* 
 @media (max-width:600px){
+  #space{
+    height:500px;
+    width: 5%;
+    float:left;
+  }
+  #left, #right{
+    margin-top:10%;
+    text-align:center;
+    float:left;
+    border-radius: 50px;
+    background: rgb(255, 229, 115);
+    height: 500px;
+    width: 25%;
+  }
   
-}
+  #mid{
+    margin-top:7%;
+    text-align:center;
+    float:left;
+    border-radius: 50px;
+    background: orange;
+    height: 600px;
+    width: 30%;
+  }
+} */
